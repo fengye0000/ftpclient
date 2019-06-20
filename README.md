@@ -1,2 +1,5 @@
 # ftpclient
 可以在linux上运行，可以用gcc和clang编译，编译之前得在ftclientfinal.c的开头写上把Host改成自己的ip地址才能正常的运行active mode.
+ftpd-mac.zip里的东西可以用作MacOS的ftp本地server 用法就是./ftpd-macos
+如果是windows的话直接下filezilla的server就好
+代码有点冗余有空的话会改改的
