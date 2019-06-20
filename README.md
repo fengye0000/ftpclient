@@ -1,0 +1,2 @@
+# ftpclient
+可以在linux上运行，可以用gcc和clang编译，编译之前得在ftclientfinal.c的开头写上把Host改成自己的ip地址才能正常的运行active mode.
